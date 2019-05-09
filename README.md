@@ -13,8 +13,8 @@ These are the actions that can be performed to the forum:<br>
 
 About "Print sorted", its goal is to print all posts sorted in ascending order by creator using a binary search tree.
 
-## Compilation command : 
+## Compile 
     $ g++ FORUMmain.c++ FORUMfunctions.c++ FORUMclasses.h FORUMtext.c++ FORUMtext.h
 
-## Execution command : 
+## Run
     $ ./a.out
